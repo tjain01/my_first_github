@@ -1,2 +1,2 @@
 # my_first_github
-A simple demo to show the basic Git Workflow
+A simple demo2 to show the basic Git Workflow
